@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color:#f4f4f4;
+	font-family:verdana; 
+	color:rgb(102,102,102); 
+}
+h1 {
+	background-color:#49afcc;
+	color:#ffffff; 
+	font-weight:normal; 
+	padding-left: 20px; 
+	padding-top: 15px; 
+	padding-bottom: 15px;
+}
+h2 {
+	font-weight:normal;
+	padding-left: 20px; 
+}
+p {
+	font-family:Georgia, "Times New Roman", Times, serif;
+	padding-left: 20px; 
+	line-height:1.5em;
+}
