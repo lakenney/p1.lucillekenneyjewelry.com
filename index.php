@@ -2,7 +2,10 @@
 <html>
 <head>
 
+<meta charset="utf-8">
 <title>Project: P1</title>
+<meta name="description" content="CSCI E-15 Dynamic Web Applications with Susan Buck. Project: P1">
+<meta name="author" content="Lucille Kenney Hybridge web designer developer">
 
 <link rel="stylesheet" href="/p1.lucillekenneyjewelry.com/css/styles.css" />
 </head>
